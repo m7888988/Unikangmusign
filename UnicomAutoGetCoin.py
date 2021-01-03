@@ -76,6 +76,6 @@ if __name__ == '__main__':
 
     timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    data = timestamp+sys.argv[1]
+    data = timestamp+&simCount=1&netWay=Wifi&mobile=R7%2BMvctlJZWouUh4cghms8IchMS5%2FzOiGfijPasvxtUDjdz9fxsTFEyYfNoO517MTd449Hd%2FNNGtosIXzQCmrhW0mSiakW9OaKvSqowCmbnM0gUnv0hMHepP%2BCV%2FpGZufsZaZ3NhMSsd2EhjEA4n0EtrJhlSqkkKdYYJvFfXFto%3D&yw_code=&timestamp=20210102081646&appId=1f7af72ad6912d306b5053abf90c7ebbdb3f5db6c2f7b015c0a5fa6dc90e66abeef342a39798d9016bc7eaf7029571ddb083d19231c43cee860552d6662f5e32&keyVersion=&deviceBrand=Xiaomi&pip=10.1.10.1&provinceChanel=general&version=android%408.0100&deviceModel=Redmi%204A&deviceOS=android6.0.1&deviceCode=866589039521641
 
     user.sign(data)
